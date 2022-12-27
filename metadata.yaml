@@ -1,0 +1,29 @@
+_repo: The-island-of-anarchy-A-fragment-of-history-in-the-20th-century_69449
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Waterhouse, Edwin
+    gutenberg_agent_id: '55271'
+    url: http://www.gutenberg.org/2009/agents/55271
+  - agent_name: Waterhouse, Elizabeth Hodgkin
+    gutenberg_agent_id: '55270'
+    url: http://www.gutenberg.org/2009/agents/55270
+description: ''
+gutenberg_issued: '2022-11-30'
+identifiers:
+  gutenberg: '69449'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/010943633
+pgterms:marc905: 20190613125851wauthor
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United Kingdom: Miss Langley, Lovejoy''s Library,1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The island of anarchy: A fragment of history in the 20th century'
+url: http://www.gutenberg.org/ebooks/69449
