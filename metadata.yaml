@@ -1,5 +1,8 @@
 _repo: The-island-of-anarchy-A-fragment-of-history-in-the-20th-century_69449
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69449-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Waterhouse, Edwin
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55270'
     url: http://www.gutenberg.org/2009/agents/55270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69449#The-island-of-anarchy-A-fragment-of-history-in-the-20th-century
 gutenberg_issued: '2022-11-30'
 identifiers:
   gutenberg: '69449'
